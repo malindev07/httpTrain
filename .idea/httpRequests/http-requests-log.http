@@ -1,0 +1,677 @@
+GET http://localhost:8080/showUsers
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-12T001948.200.txt
+
+###
+
+DELETE http://localhost:8080
+Content-Type: application/json
+Content-Length: 28
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "phone": "89039460503"
+}
+
+<> 2024-02-12T001938.200.txt
+
+###
+
+POST http://localhost:8080
+Content-Type: application/json
+Content-Length: 47
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "Lidia",
+  "phone": "89035043155"
+}
+
+<> 2024-02-12T001922.200.txt
+
+###
+
+POST http://localhost:8080
+Content-Type: application/json
+Content-Length: 47
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "Lidia",
+  "phone": "89039460503"
+}
+
+<> 2024-02-12T001835.200.txt
+
+###
+
+POST http://localhost:8080
+Content-Type: application/json
+Content-Length: 47
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "Lidia",
+  "phone": "89039460503"
+}
+
+<> 2024-02-12T001815.200.txt
+
+###
+
+DELETE http://localhost:8080
+Content-Type: application/json
+Content-Length: 30
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+
+  "phone": "87777777777"
+}
+
+<> 2024-02-12T001457.200.txt
+
+###
+
+GET http://localhost:8080/showUsers
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-12T001141.200.txt
+
+###
+
+GET http://localhost:8080
+Content-Type: application/json
+Content-Length: 28
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "phone": "89039460503"
+}
+
+<> 2024-02-12T001140.200.txt
+
+###
+
+GET http://localhost:8080/showUsers
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-12T001122.200.txt
+
+###
+
+GET http://localhost:8080
+Content-Type: application/json
+Content-Length: 28
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "phone": "89039460503"
+}
+
+<> 2024-02-12T001053.200.txt
+
+###
+
+GET http://localhost:8080/showUsers
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-12T001044.200.txt
+
+###
+
+GET http://localhost:8080
+Content-Type: application/json
+Content-Length: 28
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "phone": "89039460503"
+}
+
+<> 2024-02-12T001014.200.txt
+
+###
+
+GET http://localhost:8080/showUsers
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-12T000924.200.txt
+
+###
+
+GET http://localhost:8080
+Content-Type: application/json
+Content-Length: 28
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "phone": "89039460503"
+}
+
+<> 2024-02-12T000914.200.txt
+
+###
+
+GET http://localhost:8080
+Content-Type: application/json
+Content-Length: 28
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "phone": "89039460503"
+}
+
+<> 2024-02-12T000614.200.txt
+
+###
+
+GET http://localhost:8080
+Content-Type: application/json
+Content-Length: 28
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "phone": "89039460503"
+}
+
+<> 2024-02-12T000540.200.txt
+
+###
+
+GET http://localhost:8080
+Content-Type: application/json
+Content-Length: 28
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "phone": "89039460503"
+}
+
+<> 2024-02-12T000422.200.txt
+
+###
+
+GET http://localhost:8080
+Content-Type: application/json
+Content-Length: 28
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "phone": "89039460503"
+}
+
+<> 2024-02-11T235900.200.txt
+
+###
+
+GET http://localhost:8080
+Content-Type: application/json
+Content-Length: 28
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "phone": "89039460503"
+}
+
+<> 2024-02-11T235702.200.txt
+
+###
+
+HEAD http://localhost:8080
+Content-Type: application/json
+Content-Length: 4
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+
+}
+
+###
+
+HEAD http://localhost:8080
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+DELETE http://localhost:8080
+Content-Type: application/json
+Content-Length: 46
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "Oleg",
+  "phone": "87777777777"
+}
+
+<> 2024-02-11T233907.200.txt
+
+###
+
+DELETE http://localhost:8080
+Content-Type: application/json
+Content-Length: 46
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "Oleg",
+  "phone": "87777777777"
+}
+
+###
+
+GET http://localhost:8080/showUsers
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-11T233125.200.txt
+
+###
+
+POST http://localhost:8080
+Content-Type: application/json
+Content-Length: 47
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "Lidia",
+  "phone": "89039460503"
+}
+
+<> 2024-02-11T233122.200.txt
+
+###
+
+PUT http://localhost:8080
+Content-Type: application/json
+Content-Length: 46
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "Oleg",
+  "phone": "87777777777"
+}
+
+<> 2024-02-11T233111.200.txt
+
+###
+
+PUT http://localhost:8080
+Content-Type: application/json
+Content-Length: 48
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "Vladimir",
+  "phone": "000000000"
+}
+
+<> 2024-02-11T232417.200.txt
+
+###
+
+PUT http://localhost:8080
+Content-Type: application/json
+Content-Length: 48
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "Vladimir",
+  "phone": "000000000"
+}
+
+<> 2024-02-11T232135.200.txt
+
+###
+
+PUT http://localhost:8080
+Content-Type: application/json
+Content-Length: 48
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "Vladimir",
+  "phone": "000000000"
+}
+
+<> 2024-02-11T232104.200.txt
+
+###
+
+PUT http://localhost:8080
+Content-Type: application/json
+Content-Length: 48
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "Vladimir",
+  "phone": "000000000"
+}
+
+<> 2024-02-11T231955.200.txt
+
+###
+
+PUT http://localhost:8080
+Content-Type: application/json
+Content-Length: 48
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "Vladimir",
+  "phone": "000000000"
+}
+
+<> 2024-02-11T231419.200.txt
+
+###
+
+PUT http://localhost:8080
+Content-Type: application/json
+Content-Length: 48
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "Vladimir",
+  "phone": "000000000"
+}
+
+<> 2024-02-11T231152.200.txt
+
+###
+
+PUT http://localhost:8080
+Content-Type: application/json
+Content-Length: 48
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "Vladimir",
+  "phone": "000000000"
+}
+
+<> 2024-02-11T230904.200.txt
+
+###
+
+POST http://localhost:8080
+Content-Type: application/json
+Content-Length: 47
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "Lidia",
+  "phone": "89039460503"
+}
+
+<> 2024-02-11T225259.200.txt
+
+###
+
+POST http://localhost:8080
+Content-Type: application/json
+Content-Length: 47
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "Lidia",
+  "phone": "89039460503"
+}
+
+###
+
+POST http://localhost:8080
+Content-Type: application/json
+Content-Length: 48
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "Kirill",
+  "phone": "89039460503"
+}
+
+<> 2024-02-11T225131.200.txt
+
+###
+
+POST http://localhost:8080
+Content-Type: application/json
+Content-Length: 48
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "Kirill",
+  "phone": "89039460503"
+}
+
+<> 2024-02-11T225017.200.txt
+
+###
+
+POST http://localhost:8080
+Content-Type: application/json
+Content-Length: 48
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "Kirill",
+  "phone": "89039460503"
+}
+
+<> 2024-02-11T224945.200.txt
+
+###
+
+POST http://localhost:8080
+Content-Type: application/json
+Content-Length: 48
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "Kirill",
+  "phone": "89039460503"
+}
+
+###
+
+GET http://localhost:8080/showUsers
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-11T223735.200.txt
+
+###
+
+GET http://localhost:8080/showUsers
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+POST http://localhost:8080/addUser
+Content-Type: application/json
+Content-Length: 48
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "Kirill",
+  "phone": "89039460503"
+}
+
+###
+
+GET http://localhost:8080/showUsers
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://localhost:8080/showUsers
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+POST http://localhost:8080/addUser
+Content-Type: application/json
+Content-Length: 48
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "Kirill",
+  "phone": "89039460503"
+}
+
+###
+
+GET http://localhost:8080/showUsers
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-11T223214.404.txt
+
+###
+
+POST http://localhost:8080/addUser
+Content-Type: application/json
+Content-Length: 48
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "Kirill",
+  "phone": "89039460503"
+}
+
+###
+
+POST http://localhost:8080/addUser
+Content-Type: application/json
+Content-Length: 47
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "Nadia",
+  "phone": "89039460505"
+}
+
+###
+
+POST http://localhost:8080/addUser
+Content-Type: application/json
+Content-Length: 47
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "Nadia",
+  "phone": "89039460505"
+}
+
+###
+
+POST http://localhost:8080/addUser
+Content-Type: application/json
+Content-Length: 47
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "Nadia",
+  "phone": "89039460505"
+}
+
+###
+

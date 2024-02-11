@@ -1,0 +1,63 @@
+###
+
+GET localhost:8080/showUsers
+
+###
+
+POST http://localhost:8080/
+Content-Type: application/json
+
+{
+  "name": "Lidia",
+  "phone": "89035043155"
+}
+
+
+###
+
+PUT http://localhost:8080/
+Content-Type: application/json
+
+{
+  "name": "Oleg",
+  "phone": "87777777777"
+}
+###
+
+DELETE http://localhost:8080/
+Content-Type: application/json
+
+{
+  "name": "Oleg",
+  "phone": "87777777777"
+}
+
+###
+
+POST http://localhost:8080/
+Content-Type: application/json
+
+{
+  "Phone": "89039460503"
+}
+
+###
+
+GET http://localhost:8080
+Content-Type: application/json
+
+{
+  "phone": "89039460503"
+}
+###
+
+GET localhost:8080/showUsers
+
+###
+
+DELETE http://localhost:8080/
+Content-Type: application/json
+
+{
+  "phone": "89039460503"
+}
